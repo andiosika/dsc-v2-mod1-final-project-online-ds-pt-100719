@@ -1,8 +1,8 @@
-# Module 1 Final Project
+# Multivariate Linear Regression 
 
 # Description
 
-For this project, we examined with the King County House Sales dataset wich was provided and inclued information around residential home sales for King County, Washington from May 2014 - May 2015.  The objective was to obtain, clean, explore, and model the dataset with a multivariate linear regression to predict the sale price of houses as accurately as possible.  
+For this project, I examined the King County House Sales dataset wich was provided.  The dataset inclued information around residential home sales for King County, Washington from May 2014 - May 2015.  The objective was to obtain, clean, explore, and model the dataset with a multivariate linear regression to predict the sale price of houses as accurately as possible.  
 
 ## Main Files
 
